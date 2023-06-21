@@ -9,7 +9,7 @@ En este caso se realizó toda la documentación desde la planeación hasta la ej
 
 ## Estado del proyecto 
 
-🛠️ Finalizado... 🛠️
+### 🛠️ Finalizado... 🛠️
 
 ## Funcionalidades del proyecto
  `Agilizar procesos` Se agilizo el proceso de pedidos y de cocina en la cadena de restaurante.
